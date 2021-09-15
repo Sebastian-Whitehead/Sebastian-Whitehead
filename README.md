@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Sebastian-Whitehead
-- 👀 I’m interested in programming, DND and Media in gernal
-- 🌱 I’m currently learning java, markdown, and C#
 - 📫 You can contact me on discord @Parz1val#3719 sebastianmikael2000@gmail.com
 
 <!---
