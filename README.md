@@ -60,6 +60,12 @@
   </a>
 </div>
 
+<p align="left">
+📄 Download my CV:  
+<a href="https://github.com/Sebastian-Whitehead/Sebastian-Whitehead/blob/main/Sebastian%20Whitehead%20CV-Danish.pdf" target="_blank" rel="noopener noreferrer">🇩🇰 Danish</a> | 
+<a href="https://github.com/Sebastian-Whitehead/Sebastian-Whitehead/blob/main/Sebastian%20Whitehead%20CV-Eng.pdf" target="_blank" rel="noopener noreferrer">🇬🇧 English</a>
+</p>
+
 ###
 
 <br clear="both">
